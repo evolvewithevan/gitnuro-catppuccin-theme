@@ -49,6 +49,9 @@
 - Q: **_"What am I supposed to download to make this work?"_**\
   A: Download any of the `.json` files associated with the theme(s) that you would like to install
 
+- Q: **_"Why are the the graph colors not in theme?"_**\
+  A: Unfortunately this is a limitation of the current version of Gitnuro's theming implementation. I would love to include in-theme commit graphing. 
+
 ## 💝 Thanks to
 
 - [Evelyn](https://github.com/evolvewithevan)
